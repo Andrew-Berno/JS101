@@ -1,0 +1,20 @@
+{
+  "name": "lesson_2",
+  "version": "1.0.0",
+  "description": "launch school js101 lesson 2",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "eslint.options": {
+    "useEslintrc": false,
+    "parserOptions": {
+      "ecmaVersion": 2017
+    },
+    "env": {
+      "es6": true
+    }
+  }
+}
